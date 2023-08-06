@@ -1,6 +1,7 @@
 # go_gql
 
-Goを使用したGraphQLサーバの実装
+Goを使用したGraphQLサーバの実装。
+簡易版GitHub API v4の実装。
 
 # 参考
 
